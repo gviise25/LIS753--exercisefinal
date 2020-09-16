@@ -1,0 +1,25 @@
+<<!DOCTYPE html>
+<html>
+  <head>
+   <title>Exercise 02: Viise Homepage </title>
+    </head>
+  <body>
+  <h1>Exercise 02: Viise Homepage </h1>
+  <p> Welcome to my site. Let me tell you some things about me. <em>This is where my  journey (italics) </em>
+    <strong>begins<strong>. </p><br>
+  <h2>My unordered list within my profile</h2>
+    <ul>
+      <li>List item </li>
+      <li>List item </li>
+      <li>List item </li>
+      <li>List item </li>
+  </ul>
+  <h2>My ordered list within my profile</h2>
+    <ol>
+      <li>List item </li>
+      <li>List item </li>
+      <li>List item </li>
+    </ul>
+  </body>
+</html>
+ ProTip! Use n and p to navigate b
