@@ -4,22 +4,23 @@
    <title>Exercise 02: Viise Homepage </title>
     </head>
   <body>
-  <h1>Exercise 02: Viise Homepage </h1>
-  <p> Welcome to my site. Let me tell you some things about me. <em>This is where my  journey (italics) </em>
-    <strong>begins</strong>. </p><br>
-  <h2>My unordered list within my profile</h2>
+    <h1>Exercise 02: Viise Homepage </h1>
+    <p> Welcome to my site. Here are a few of my favorite Major League Baseball
+    teams. I will tell you more about each of these teams later on. This will
+    be ranked in order from favorite to least favorite.
+    <strong>begins</strong>. </p>
+    <h2>MLB Teams</h2>
     <ul>
-      <li>List item </li>
-      <li>List item </li>
-      <li>List item </li>
-      <li>List item </li>
+      <li>Yankees </li>
+      <li> White sox</li>
+      <li>Minnesota Twins </li>
+      <li>Chicago Cubs </li>
   </ul>
-  <h2>My ordered list within my profile</h2>
+    <h3>My least favorite MLB Teams</h3>
     <ol>
-      <li>List item </li>
-      <li>List item </li>
-      <li>List item </li>
+      <li>Boston Red Sox</li>
+      <li>New York Mets </li>
+      <li>Houston Astros </li>
     </ul>
   </body>
 </html>
- ProTip! Use n and p to navigate b
