@@ -1,10 +1,33 @@
 body {
   background-color: #A9A9A9;
   font-family: arial, sans-serif;
+  color:#302F2F;
 }
+
+.wrapper  {
+  background:#ffffff;
+  width:92%;
+  max-width: 800px;
+  margin: 0  auto;
+  padding 12px 20px;
+}
+
 h1, h2 {
   color: #008B8B;
 }
+
+blockquote {
+  border-right: 4px solid #889AA5;
+  padding-left: 12px;
+  background color: #f9f9f9;
+  margin-left:  0;
+  margin-right: 0;
+}
+
+.caption  {
+  font-style:  italic;
+}
+
 a {
   color: #7FFFD4;
 }
