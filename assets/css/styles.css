@@ -2,6 +2,7 @@ body {
   background-color: #A9A9A9;
   font-family: arial, sans-serif;
   color:#302F2F;
+  margin left: 0;
 }
 .wrapper  {
   background:#ffffff;
@@ -42,7 +43,7 @@ a {
   color: #7FFFD4;
 }
 img  {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
 }
 ul  {
