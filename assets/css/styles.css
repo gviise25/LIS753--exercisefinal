@@ -8,17 +8,18 @@ body {
   background:#ffffff;
   width:92%;
   max-width: 800px;
+
   margin: 0  auto;
   padding: 12px 20px;
 }
 h1  {
   margin-bottom:.5em;
-  allign left: 0 auto;
+
 }
 h2  {
   margin-bottom:.25em;
   margin-top:  1em;
-  allign left: 0 auto;
+
 }
 h1, h2 {
   color: #130342;
@@ -42,17 +43,15 @@ blockquote {
 }
 
 a {
-  color: #7FFFD4;
-  align left: 0 auto;
+color: #7FFFD4;
 }
 img  {
   max-width: 90%;
   height: auto;
 }
 ul  {
-  padding-left:20px;
-  margin-top:  8px;
-  allign left: auto;
+  padding-left: 20px;
+  margin-top: 8px;
 }
 p  {
   line-height:1.4em;
