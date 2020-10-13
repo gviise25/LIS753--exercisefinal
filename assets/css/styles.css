@@ -44,6 +44,8 @@ blockquote {
 
 a {
 color: #7FFFD4;
+allign-left: 0 auto;
+margin left: 0;
 }
 img {
   max-width: 100%;
