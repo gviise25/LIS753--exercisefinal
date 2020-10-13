@@ -44,8 +44,6 @@ blockquote {
 
 a {
 color: #7FFFD4;
-allign-left: 0 auto;
-margin left: 0;
 }
 img {
   max-width: 100%;
@@ -56,6 +54,10 @@ img {
 ul  {
   padding-left:20px;
   margin-top:8px;
+
+  allign-left: 0;
+  margin-left: 0;
+
 }
 p  {
   line-height:1.4em;
