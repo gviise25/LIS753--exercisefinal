@@ -30,7 +30,6 @@ blockquote {
   padding-left: 12px;
   background color: #f9f9f9;
   margin-left:  0;
-  margin-right:  0;
 
 }
 .image  {
@@ -48,7 +47,7 @@ color: #7FFFD4;
 }
 img  {
   max-width: 100%;
-  height:auto;
+  height: 0 auto;
 }
 
 ul  {
