@@ -13,10 +13,12 @@ body {
 }
 h1  {
   margin-bottom:.5em;
+  allign left: 0 auto;
 }
 h2  {
   margin-bottom:.25em;
   margin-top:  1em;
+  allign left: 0 auto;
 }
 h1, h2 {
   color: #130342;
@@ -37,12 +39,11 @@ blockquote {
 .caption  {
   font-style:  italic;
   margin-top:  .25em;
-  margin-left: 0;
 }
 
 a {
   color: #7FFFD4;
-  margin-left: 0;
+  align left: 0 auto;
 }
 img  {
   max-width: 90%;
@@ -51,7 +52,7 @@ img  {
 ul  {
   padding-left:20px;
   margin-top:  8px;
-  margin-left:  0;
+  allign left: auto;
 }
 p  {
   line-height:1.4em;
