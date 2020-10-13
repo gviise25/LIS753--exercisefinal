@@ -9,7 +9,6 @@ background:#ffffff;
 width:92%;
 max-width: 800px;
 margin: 0  auto;
-padding: 1px 2px;
 }
 h1  {
 margin-bottom:.5em;
@@ -29,7 +28,7 @@ border-left: 1px solid #889AA5;
 padding-left: 2px;
 background color: #f9f9f9;
 margin-left:  0;
-margin-right:  0;
+
 
 }
 .image  {
@@ -52,8 +51,6 @@ height: auto;
 
 
 ul  {
-padding-left:2px;
-margin-top:1px;
 
 text-align: left;
 
