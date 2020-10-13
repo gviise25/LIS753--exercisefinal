@@ -9,7 +9,7 @@ background:#ffffff;
 width:92%;
 max-width: 800px;
 margin: 0  auto;
-padding: 4px 12px;
+
 }
 h1  {
 margin-bottom:.5em;
@@ -28,9 +28,9 @@ blockquote {
 border-left: 4px solid #889AA5;
 padding-left: 12px;
 background color: #f9f9f9;
-margin-right:  0;
-margin-right:  0;
 
+margin-left:  0;
+margin-top:4px;
 }
 .image  {
 text-align: center;
