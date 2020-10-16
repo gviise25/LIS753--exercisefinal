@@ -3,7 +3,7 @@ background-color: #A9A9A9;
 font-family: arial, sans-serif;
 color:#302F2F;
 margin left: 0;
-padding: 3px  5px;
+
 }
 .wrapper  {
 background:#ffffff;
@@ -18,11 +18,11 @@ margin-bottom:.5em;
 h2  {
 margin-bottom: .25em;
 margin-top: 1em;
-text-align: left;
+
 }
 h1, h2 {
   color: #130342;
-
+text-align: left;
 }
 blockquote {
 border-left: 1px solid #889AA5;
@@ -47,12 +47,8 @@ img {
 max-width: 100%;
 height: auto;
 }
-
-
 ul  {
-padding left: 5px;
-margin-top: 2px;
-
+text-align: left;
 }
 p  {
 line-height:1.4em;
