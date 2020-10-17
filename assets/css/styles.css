@@ -2,14 +2,14 @@ body {
 background-color: #A9A9A9;
 font-family: arial, sans-serif;
 color:#302F2F;
-margin left: 0;
-
 }
+
 .wrapper  {
-background:#ffffff;
+background-color:#ffffff;
 width:92%;
 max-width: 800px;
 margin: 0  auto;
+padding: 12px 20px;
 }
 h1  {
 margin-bottom:.5em;
@@ -25,8 +25,8 @@ h1, h2 {
 text-align: left;
 }
 blockquote {
-border-left: 1px solid #889AA5;
-padding-left: 3px;
+border-left: 3px solid #889AA5;
+padding-left: 12px;
 background color: #f9f9f9;
 margin-left:  0;
 }
@@ -48,8 +48,12 @@ max-width: 100%;
 height: auto;
 }
 ul  {
-text-align: left;
+padding-left: 20px;
+margin-top: 8px;
 }
 p  {
 line-height:1.4em;
+}
+header  {
+  background-image: url( ../images/ )
 }
