@@ -55,5 +55,12 @@ p  {
 line-height:1.4em;
 }
 header  {
-  background-image: url( ../images/ )
+  background-image: url( ../images/baseball universe.jpg );
+  border-bottom: 2px solid # #302F2F;
+  text-align: center;
+}
+footer.wrapper {
+  text-align: center;
+  padding 40px 20px;
+  border-top: 2px solid #302F2F;
 }
