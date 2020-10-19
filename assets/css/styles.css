@@ -9,7 +9,6 @@ background-color: #ffffff;
 width:92%;
 max-width: 800px;
 margin: 0  auto;
-padding: 12px 20px;
 }
 h1  {
 margin-bottom:.5em;
@@ -48,8 +47,7 @@ max-width: 100%;
 height: auto;
 }
 ul  {
-padding-left: 20px;
-margin-top: 8px;
+text-align: center;
 }
 p  {
 line-height:1.4em;
