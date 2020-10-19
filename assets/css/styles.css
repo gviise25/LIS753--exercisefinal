@@ -10,25 +10,28 @@ width:92%;
 max-width: 800px;
 margin: 0  auto;
 }
+
 h1  {
 margin-bottom:.5em;
-
 }
+
 h2  {
 margin-bottom: .25em;
 margin-top: 1em;
-
 }
+
 h1, h2 {
-  color: #130342;
+color: #130342;
 text-align: left;
 }
+
 blockquote {
 border-left: 3px solid #889AA5;
 padding-left: 12px;
 background color: #f9f9f9;
 margin-left:  0;
 }
+
 .image  {
 text-align: center;
 margin: 2em 0;
@@ -42,21 +45,26 @@ margin-top:.25em;
 a {
 color: #7FFFD4;
 }
+
 img {
 max-width: 100%;
 height: auto;
 }
+
 ul  {
 text-align: center;
 }
+
 p  {
 line-height:1.4em;
 }
+
 header  {
   background-image: url( ../images/baseball universe.jpg );
   border-bottom: 2px solid # #302F2F;
   text-align: center;
 }
+
 footer.wrapper {
   text-align: center;
   padding: 40px 20px;
