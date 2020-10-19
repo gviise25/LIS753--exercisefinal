@@ -22,7 +22,6 @@ margin-top: 1em;
 
 h1, h2 {
 color: #130342;
-text-align: center;
 }
 
 blockquote {
@@ -66,7 +65,7 @@ header  {
 }
 
 footer.wrapper {
-  text-align: left;
+  text-align: center;
   padding: 40px 20px;
   border-top: 2px solid #302F2F;
 }
