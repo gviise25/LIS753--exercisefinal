@@ -6,9 +6,10 @@ color:#302F2F;
 
 .wrapper  {
 background-color: #ffffff;
-width:92%;
+width:98%;
 max-width: 800px;
 margin: 0  auto;
+padding: 12px 20px;
 }
 
 h1  {
