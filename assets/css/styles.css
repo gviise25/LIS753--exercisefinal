@@ -21,12 +21,12 @@ margin-top: 1em;
 
 }
 h1, h2 {
-  color: #130342;
+color: #130342;
 text-align: left;
 }
 blockquote {
-border-left: 1px solid #889AA5;
-padding-left: 3px;
+border-left: 3px solid #889AA5;
+padding-left: 12px;
 background color: #f9f9f9;
 margin-left:  0;
 }
