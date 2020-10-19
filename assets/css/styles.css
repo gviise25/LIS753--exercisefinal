@@ -22,7 +22,7 @@ margin-top: 1em;
 
 h1, h2 {
 color: #130342;
-text-align: left;
+text-align:left;
 }
 
 blockquote {
@@ -60,7 +60,7 @@ line-height:1.4em;
 }
 
 header  {
-  background-image: url( ../images/Baseball universe.jpg );
+  background-image: url(../images/Baseball-universe.jpg);
   border-bottom: 2px solid # #302F2F;
   text-align: center;
 }
