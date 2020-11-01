@@ -37,7 +37,9 @@ text-align:left;
 blockquote {
 border-left: 3px solid #889AA5;
 padding-left: 12px;
+
 background color:#F5F5F5;
+font-style: bold;
 
 margin-left:  0;
 font-size: 17px;
