@@ -1,5 +1,5 @@
 body {
-background-color: #A9A9A9;
+background-color: #4000ff;
 font-family: arial, sans-serif;
 font-size: 14px;
 color:#0040ff;
@@ -23,7 +23,7 @@ margin-top: 1em;
 }
 
 h1, h2 {
-color: #0040ff;
+color: #4000ff;
 text-align:left;
 }
 
@@ -64,12 +64,12 @@ line-height:1.4em;
 header  {
 background-image: url(../images/slide3.png);
 
-border-bottom: 2px solid #0040ff;
+border-bottom: 2px solid #4000ff;
 text-align: center;
 }
 
 footer.wrapper {
   text-align:center;
   padding: 40px 20px;
-  border-top: 2px solid #0040ff;
+  border-top: 2px solid #4000ff;
 }
