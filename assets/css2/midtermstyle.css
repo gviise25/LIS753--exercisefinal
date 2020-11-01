@@ -22,7 +22,6 @@ padding: 0;
 
 h1  {
 margin-bottom:.5em;
-  background-color: green;
 }
 
 h2  {
@@ -74,14 +73,12 @@ text-align:left;
 
 p  {
 line-height:1.4em;
-  background-color: yellow;
   }
 
 div {
 padding-left: 20px;
     height: 200px;
 width: 50%;
-background-color: powderblue;
 }
 
 
