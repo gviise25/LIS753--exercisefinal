@@ -74,6 +74,9 @@ line-height:1.4em;
 div {
   background-color: lightblue;
     padding-left: 20px;
+    height: 200px;
+width: 50%;
+background-color: powderblue;
 }
 
 
