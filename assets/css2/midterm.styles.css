@@ -61,9 +61,7 @@ color: #7FFFD4;
 img {
 max-width: 90%;
 height: auto;
-
-display: block;
-  margin-left: auto;
+  display: block;
 
 margin-right: auto;
   width: 40%;
@@ -79,8 +77,7 @@ line-height:1.4em;
   }
 
 div {
-  background-color: lightblue;
-    padding-left: 20px;
+padding-left: 20px;
     height: 200px;
 width: 50%;
 background-color: powderblue;
@@ -97,10 +94,7 @@ border-width: 20px 5px;
 }
 
 footer.wrapper {
-  text-align:center;
-  padding: 40px 20px;
-  border-top: 2px solid #4000ff;
-  currency:
-  contact:
-  reponsible party: Leroy fire department;
+text-align:center;
+ padding: 40px 20px;
+border-top: 2px solid #4000ff;
 }
