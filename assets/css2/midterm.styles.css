@@ -7,8 +7,8 @@ color:#302F2F;
 
 .wrapper  {
 background-color: #ffffff;
-width:98%;
-max-width: 800px;
+width:94%;
+max-width: 700px;
 margin: 0  auto;
 padding: 12px 20px;
 }
@@ -36,7 +36,7 @@ margin-left:  0;
 
 .image  {
 text-align: center;
-margin: 2em 0;
+margin: 1.5em 0;
 }
 
 .caption  {
@@ -49,7 +49,7 @@ color: #7FFFD4;
 }
 
 img {
-max-width: 100%;
+max-width: 90%;
 height: auto;
 }
 
@@ -62,8 +62,8 @@ line-height:1.4em;
 }
 
 header  {
-background-image: url(../images/OIP.jpg);
-background-image:url(../images/Ox Roast 2018.jpg);
+background-image: url(../images/);
+
 border-bottom: 2px solid #302F2F;
 text-align: center;
 }
