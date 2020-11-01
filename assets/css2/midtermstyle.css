@@ -3,7 +3,6 @@ background-color: #4000ff;
 font-family: arial, sans-serif;
 font-size: 12px;
 color:#0040ff;
-  background-color: lightblue;
 }
 
 .wrapper  {
@@ -20,6 +19,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 }
+
 h1  {
 margin-bottom:.5em;
   background-color: green;
@@ -41,7 +41,7 @@ padding-left: 12px;
 background color: #f9f9f9;
 
 margin-left:  0;
-font-size: 20px;
+font-size: 17px;
 }
 
 .image  {
@@ -65,7 +65,7 @@ height: auto;
   display: block;
 
 margin-right: auto;
-  width: 40%;
+  width: 90%;
 }
 
 ul  {
@@ -91,7 +91,7 @@ border-bottom: 2px solid #4000ff;
 text-align: center;
 
 border-style: solid;
-border-width: 20px 5px;
+border-width: 25px 5px;
 }
 
 footer.wrapper {
