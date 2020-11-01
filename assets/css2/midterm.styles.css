@@ -3,6 +3,8 @@ background-color: #4000ff;
 font-family: arial, sans-serif;
 font-size: 12px;
 color:#0040ff;
+  background-color: lightblue;
+}
 }
 
 .wrapper  {
@@ -20,6 +22,7 @@ padding: 0;
 }
 h1  {
 margin-bottom:.5em;
+  background-color: green;
 }
 
 h2  {
@@ -65,7 +68,13 @@ text-align:left;
 
 p  {
 line-height:1.4em;
+  background-color: yellow;
 }
+
+div {
+  background-color: lightblue;
+}
+
 
 header  {
 background-image: url(../images/slide3.png);
