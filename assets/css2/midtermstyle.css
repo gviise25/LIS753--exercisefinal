@@ -21,13 +21,11 @@ padding: 0;
 
 h1  {
 margin-bottom:.5em;
-color:	#DC143C;
 }
 
 h2  {
 margin-bottom: .25em;
 margin-top: 1em;
-color:	#DC143C;
 }
 
 h1, h2 {
@@ -58,7 +56,7 @@ margin-top:.25em;
 }
 
 a {
-color: #7FFFD4;
+color: #0000A0;
 }
 
 img {
@@ -72,7 +70,7 @@ margin-right: auto;
 
 ul  {
 text-align:left;
-color:#ADD8E6;
+color:#0000A0;
 }
 
 p  {
