@@ -79,9 +79,9 @@ footer.wrapper {
   padding: 40px 20px;
   border-top: 2px solid #302F2F;
 }
-@media  all and  ( min-width:  920px)  {
+@media  all and ( min-width:  920px)  {
 article, aside {
-float:  left;
+float: left;
 }
 
 article  {
@@ -90,7 +90,7 @@ article  {
 }
 
 aside  {
-   width:  25%;
+   width: 25%;
 }
 aside  h2: first-child  {
     margin-top:  14px;
