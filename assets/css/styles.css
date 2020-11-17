@@ -1,6 +1,11 @@
+* {
+box-sizing:  border-box;
+}
+
 body {
 background-color: #A9A9A9;
 font-family: arial, sans-serif;
+
 font-size: 12px;
 color:#302F2F;
 }
@@ -73,4 +78,20 @@ footer.wrapper {
   text-align:center;
   padding: 40px 20px;
   border-top: 2px solid #302F2F;
+}
+@media  all and  ( min-width:  920px)  {
+article, aside {
+float:  left;
+}
+
+article  {
+  width:  75%;
+  padding-right:  19px;
+}
+
+aside  {
+   width:  25%;
+}
+aside  h2: first-child  {
+    margin-top:  14px;
 }
