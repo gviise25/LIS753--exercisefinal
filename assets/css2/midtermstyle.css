@@ -1,6 +1,8 @@
 body {
 background-color: #F5F5F5;
 font-family: arial, sans-serif;
+
+
 font-size: 12px;
 color:#DC143C;
 }
@@ -9,6 +11,7 @@ color:#DC143C;
 background-color: #ffffff;
 width:94%;
 max-width: 700px;
+
 margin: 0  auto;
 padding: 12px 20px;
 }
