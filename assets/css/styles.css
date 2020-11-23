@@ -87,14 +87,14 @@ header. wrapper  {
 
 footer.wrapper {
   text-align:center;
-  padding: 40px 20px;
+  padding: 25px 20px;
   border-top: 2px solid #302F2F;
 
   aside h2  {
     font-size: 1.4rem;
   }
 }
-@media  all and ( min-width:  920px)  {
+@media  all and ( min-width:  720px)  {
 article, aside {
 float: left;
 }
