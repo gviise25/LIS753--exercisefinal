@@ -1,35 +1,50 @@
+* {
+box-sizing:  border-box;
+}
+
 body {
 background-color: #A9A9A9;
 font-family: arial, sans-serif;
-color:#302F2F;
-margin left: 0;
 
+
+color:#302F2F;
 }
+
 .wrapper  {
-background:#ffffff;
-width:92%;
+background-color: #ffffff;
+width:98%;
 max-width: 800px;
 margin: 0  auto;
-}
-h1  {
-margin-bottom:.5em;
+padding: 12px 20px;
 
 }
+
+
+h1  {
+margin-bottom:.5em;
+}
+
+h1 #page-title {
+  margin: 0;
+}
+
 h2  {
 margin-bottom: .25em;
 margin-top: 1em;
-
 }
+
 h1, h2 {
 color: #130342;
-text-align: left;
+text-align:left;
 }
+
 blockquote {
-border-left: 1px solid #889AA5;
-padding-left: 2px;
+border-left: 0px solid #889AA5;
+padding-left: 0px;
 background color: #f9f9f9;
 margin-left:  0;
 }
+
 .image  {
 text-align: center;
 margin: 2em 0;
@@ -43,13 +58,55 @@ margin-top:.25em;
 a {
 color: #7FFFD4;
 }
+
 img {
 max-width: 100%;
 height: auto;
 }
+
 ul  {
-text-align: left;
+text-align:left;
+
+padding-left:  20px;
+margin-top:  8px;
 }
+
 p  {
 line-height:1.4em;
+}
+
+header  {
+background-image: url(../images/Baseball.png);
+border-bottom: 2px solid #302F2F;
+text-align: center;
+
+}
+header. wrapper  {
+  padding:  25px  19px;
+}
+
+footer.wrapper {
+  text-align:center;
+  padding: 25px 20px;
+  border-top: 2px solid #302F2F;
+
+  aside h2  {
+    font-size: 1.4rem;
+  }
+}
+@media  all and ( min-width:  720px)  {
+article, aside {
+float: left;
+}
+
+article  {
+  width:  75%;
+  padding-right:  19px;
+}
+
+aside  {
+   width: 25%;
+}
+aside  h2: first-child  {
+    margin-top:  14px;
 }
