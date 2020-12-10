@@ -49,7 +49,7 @@ font-size: 13px;
 
 .image  {
 text-align: center;
-margin: 1.5em 0;
+margin: 1.2em 0;
 }
 }
 
@@ -63,12 +63,12 @@ color: #210B61;
 }
 
 img {
-max-width: 90%;
+max-width: 70%;
 height: auto;
   display: block;
 
 margin-right: auto;
-  width: 70%;
+  width: 50%;
 }
 
 ul  {
