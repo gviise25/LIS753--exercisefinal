@@ -17,14 +17,13 @@
 
 <blockquote>Let the stats speak for itself:    </blockquote>
 
-my @data = ( [qw(foo b&r b&z)], [1,2,3], [4,5,6], [7,8,9] );
-my $gen  = Spreadsheet::HTML->new( data => \@data, encode => 1 );
-
-print $gen->portrait( indent => '   ' );
-print $gen->landscape( indent => "\t" );
-
-$gen = Spreadsheet::HTML->new( file => 'data.xls', worksheet => 2 );
-print $gen->generate( preserve => 1 );
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" href="favicon.ico">
+<script src="samples.js"></script>
+<script src="../dist/chart.min.js"></script>
+<script src="utils.js"></script>
+<title>Chart.js samples</title>
+</head>
 
 <null>
 </article>
