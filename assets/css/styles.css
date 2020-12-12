@@ -5,6 +5,7 @@ box-sizing:  border-box;
 body {
 background-color: #A9A9A9;
 font-family: arial, sans-serif;
+text-align: center;
 
 
 color:#302F2F;
@@ -13,7 +14,7 @@ color:#302F2F;
 .wrapper  {
 background-color: #ffffff;
 width:98%;
-max-width: 700px;
+max-width: 900px;
 margin: 0  auto;
 padding: 12px 19px;
 
@@ -47,7 +48,7 @@ margin-left:  0;
 
 .image  {
 text-align: center;
-margin: 2em 0;
+margin: 1.7em 0;
 }
 
 .caption  {
@@ -67,8 +68,8 @@ height: auto;
 ul  {
 text-align:left;
 
-padding-left:  20px;
-margin-top:  5px;
+padding-left:  17px;
+margin-top:  3px;
 }
 
 p  {
@@ -87,7 +88,7 @@ header. wrapper  {
 
 footer.wrapper {
   text-align:center;
-  padding: 25px 20px;
+  padding: 25px 19px;
   border-top: 2px solid #302F2F;
 
   aside h2  {
