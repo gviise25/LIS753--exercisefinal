@@ -112,11 +112,12 @@ aside  h2: first-child  {
 }
 /* Chat containers */
 .container {
-  border: 2px solid #dedede;
-  background-color: #f1f1f1;
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px 0;
+border: 2px solid #dedede;
+background-color: #f1f1f1;
+border-radius: 5px;
+
+  padding: 12px;
+  margin: 12px 0;
 }
 
 /* Darker chat container */
@@ -135,8 +136,10 @@ aside  h2: first-child  {
 /* Style images */
 .container img {
   float: left;
-  max-width: 60px;
-  width: 100%;
+  max-width: 55px;
+
+
+  width: 90%;
   margin-right: 20px;
   border-radius: 50%;
 }
