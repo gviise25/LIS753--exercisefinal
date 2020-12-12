@@ -91,7 +91,7 @@ footer.wrapper {
   border-top: 2px solid #302F2F;
 
   aside h2  {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 }
 @media  all and ( min-width:  720px)  {
@@ -100,7 +100,7 @@ float: left;
 }
 
 article  {
-  width:  75%;
+  width:  55%;
   padding-right:  19px;
 }
 
