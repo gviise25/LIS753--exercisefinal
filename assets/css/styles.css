@@ -38,6 +38,7 @@ margin-top: 1em;
 h1, h2 {
 color: #130342;
 text-align:left;
+font-size: 12;
 }
 
 blockquote {
@@ -59,7 +60,6 @@ margin-top:.25em;
 
 a {
 color: #00008B;
-font-size: 12;
 }
 
 img {
@@ -72,6 +72,7 @@ text-align:left;
 
 padding-left:  17px;
 margin-top:  3px;
+font-size: 12;
 }
 
 p  {
