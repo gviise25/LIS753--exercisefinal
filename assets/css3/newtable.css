@@ -3,15 +3,15 @@ table, th, td {
 }
 
 #t01 {
-  width: 100%;
+  width: 75%;
   background-color: #f1f1c1;
 }
 
 #t01 tr:nth-child(even) {
-  background-color: #eee;
+  background-color: #08088A;
 }
 #t01 tr:nth-child(odd) {
-  background-color: #fff;
+  background-color: #08088A;
 }
 #t01 th {
   color: white;
