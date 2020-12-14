@@ -18,10 +18,11 @@ table, th, td {
   background-color: black;
 }
 
-img {
+img            {
 max-width: 50%;
 height: auto;
   display: block;
 
 margin-right: auto;
   width: 20%;
+}
