@@ -10,12 +10,6 @@
 </header>
 <main class="wrapper">
 
-
-  <form>
-  .
-  form elements
-  .
-  </form>
 <form>
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname"><br>
@@ -24,32 +18,39 @@
 </form>
 
 <form>
-  <input type="radio" id="male" name="gender" value="male">
+  <input type="radio" id="male" name="sexual orientation" value="male">
   <label for="male">Male</label><br>
-  <input type="radio" id="female" name="gender" value="female">
+  <input type="radio" id="female" name="sexual orientation" value="female">
   <label for="female">Female</label><br>
-  <input type="radio" id="other" name="gender" value="other">
+  <input type="radio" id="other" name="sexual orientation" value="other">
   <label for="other">Other</label>
 </form>
 <form>
-  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-  <label for="vehicle1"> I have a bike</label><br>
-  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-  <label for="vehicle2"> I have a car</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-  <label for="vehicle3"> I have a boat</label>
+  <input type="checkbox" id="college education" name="college education" value="yes">
+  <label for="college education"> I have a college education</label><br>
+  <input type="checkbox" id="not college educated" name="not college educated" value="no">
+  <label for="not college educated"> I didn't graduate college</label><br>
+  <input type="checkbox" id="will attend college" name="will attend college" value="soon">
+  <label for="will attend college"> I will soon attend college</label>
 </form>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="text" id="fname" name="fname" value="James"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="text" id="lname" name="lname" value="Michael"><br><br>
   <input type="submit" value="Submit">
 </form>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" value="John"><br><br>
+  <input type="text" id="fname" value="James"><br><br>
   <input type="submit" value="Submit">
+</form>
+
+<form action="https://formcarry.com/s/XXXXXX"
+method="POST" enctype="multipart/form-data">
+     <input type="email" name="email">
+     <input type="file" name="photo">
+     <button type="submit">Submit</button>
 </form>
