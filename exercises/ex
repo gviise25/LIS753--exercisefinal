@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Midterm </title>
+<link rel="stylesheet" type="text/css" href="../assets/css3/newtable.css">
+</head>
+<body>
+<header class="wrapper">
+<h1 id= "page-title">NewTable: <br /> New York Yankees Roster</h1>
+</header>
+<main class="wrapper">
+
+
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
